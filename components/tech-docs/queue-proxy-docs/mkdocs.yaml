@@ -1,0 +1,8 @@
+site_name: 'Queue Proxy'
+site_description: 'Docs site for Queue Proxy'
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
