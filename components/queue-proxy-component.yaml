@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: queue-proxy
   description: Queue Proxy
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/external-spotify-portal-demo/example-org/tree/main/components/tech-docs/queue-proxy-docs
   tags:
     - go
     - website
