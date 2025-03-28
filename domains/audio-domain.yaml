@@ -10,4 +10,4 @@ metadata:
       title: Domain Metrics Dashboard
       icon: dashboard
 spec:
-  owner: acme-corp
+  owner: kubecon-squad

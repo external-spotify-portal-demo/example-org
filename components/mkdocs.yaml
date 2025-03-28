@@ -1,6 +1,5 @@
 site_name: 'Queue Proxy'
 site_description: 'Docs site for Queue Proxy'
-docs_dir: 'tech-docs/queue-proxy-docs/docs'
 
 nav:
   - Introduction: index.md

@@ -4,6 +4,6 @@ metadata:
   name: playback
   description: Everything related to audio playback
 spec:
-  owner: user:frank.tiernan
+  owner: kubecon-squad
   subdomainOf: audio
   type: product-group
