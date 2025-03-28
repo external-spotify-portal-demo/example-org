@@ -4,6 +4,6 @@ metadata:
   name: audio-playback
   description: Audio playback system
 spec:
-  owner: team-c
+  owner: kubecon-squad
   domain: playback
   type: feature-set

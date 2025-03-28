@@ -4,12 +4,12 @@ metadata:
   name: queue-proxy
   description: Queue Proxy
   annotations:
-    backstage.io/techdocs-ref: dir:./components/tech-docs/queue-proxy-docs
+    backstage.io/techdocs-ref: dir:.
   tags:
     - go
     - website
 spec:
   type: website
   lifecycle: production
-  owner: team-b
+  owner: kubecon-squad
   system: podcast
