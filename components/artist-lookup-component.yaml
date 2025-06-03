@@ -32,6 +32,8 @@ metadata:
     backstage.io/source-template: template:default/springboot-template
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
     backstage.io/techdocs-ref: dir:./artist-lookup-docs
+    backstage.io/kubernetes-id: dice-roller
+    backstage.io/kubernetes-namespace: default
 spec:
   type: service
   lifecycle: production
