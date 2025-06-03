@@ -34,7 +34,7 @@ metadata:
     backstage.io/techdocs-ref: dir:./artist-lookup-docs
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: team-a
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
