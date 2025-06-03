@@ -1,0 +1,8 @@
+site_name: 'Artist Lookup'
+site_description: 'Docs site for Artist Lookup'
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
