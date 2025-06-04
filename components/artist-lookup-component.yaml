@@ -41,3 +41,4 @@ spec:
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
+  providesApis: ['api:spotify']
