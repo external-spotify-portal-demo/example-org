@@ -1,4 +1,4 @@
-# ADR 001: Decision to the Artist Lookup Service
+# ADR 001: Decision to create an Artist Lookup Service
 
 ## Status
 Accepted
