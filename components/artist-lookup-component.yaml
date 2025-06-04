@@ -34,7 +34,7 @@ metadata:
     backstage.io/techdocs-ref: dir:./artist-lookup-docs
     backstage.io/kubernetes-id: dice-roller
     backstage.io/kubernetes-namespace: default
-    backstage.io/adr-location: ./artist-lookup-adrs
+    backstage.io/adr-location: dir:./artist-lookup-docs
 spec:
   type: service
   lifecycle: production
