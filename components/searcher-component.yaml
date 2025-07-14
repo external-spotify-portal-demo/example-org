@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  title: Our Internal LLM
+  title: "Our Internal LLM"
   name: searcher
   description: Searcher
   tags:
