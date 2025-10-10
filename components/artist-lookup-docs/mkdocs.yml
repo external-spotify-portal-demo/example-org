@@ -1,8 +1,9 @@
 site_name: 'Artist Lookup'
 site_description: 'Docs site for Artist Lookup'
+docs_dir: ..
 nav:
-  - Introduction: index.md
-  - Hello: ../../docs/test/test.md
+  - Introduction: artist-lookup-docs/docs/index.md
+  - Hello: docs/test/test.md
 
 plugins:
   - techdocs-core
