@@ -3,6 +3,7 @@ site_description: 'Docs site for Queue Proxy'
 use_directory_urls: false
 nav:
   - Introduction: index.md
+  - Hello: test.md
 
 plugins:
   - techdocs-core
