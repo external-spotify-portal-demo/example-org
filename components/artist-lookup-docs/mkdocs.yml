@@ -1,9 +1,9 @@
 site_name: 'Artist Lookup'
 site_description: 'Docs site for Artist Lookup'
-use_directory_urls: true
 nav:
   - Introduction: index.md
   - Hello: test.md
 
 plugins:
   - techdocs-core
+  - include-markdown
