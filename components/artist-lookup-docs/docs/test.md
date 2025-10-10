@@ -1,1 +1,1 @@
-../../docs/test.md
+../../docs/test/test.md
