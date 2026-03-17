@@ -1,6 +1,6 @@
 site_name: 'Artist Lookup'
 site_description: 'Docs site for Artist Lookup'
-docs_dir: ..
+docs_dir: ./..
 nav:
   - Introduction: artist-lookup-docs/docs/index.md
   - Hello: docs/test/test.md
