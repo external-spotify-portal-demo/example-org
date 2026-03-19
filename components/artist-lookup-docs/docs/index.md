@@ -30,6 +30,7 @@ Authorization: Bearer YOUR_API_KEY
 Search for artists by name.
 
 **Query Parameters:**
+
 | Name       | Type   | Description                 |
 |------------|--------|-----------------------------|
 | `query`    | string | Name or keyword to search   |
@@ -64,6 +65,7 @@ GET /artists/search?query=radiohead&limit=5
 Retrieve full metadata for a specific artist.
 
 **Path Parameters:**
+
 | Name | Type   | Description          |
 |------|--------|----------------------|
 | `id` | string | ID of the artist     |
